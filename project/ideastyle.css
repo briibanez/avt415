@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+  box-sizing: border-box;
+}
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #FFCB7E;
+  color: #181354;
+font-family:"Operetta 32 Black", "Operetta 32 Bold", "Operetta 32 Demi Bold", "Operetta 32 Extra Light", "Operetta 32 Light", "Operetta 32 Medium", "Operetta 32 Regular", "Operetta 32 Ultra Bold", "Operetta 52 Black", "Operetta 52 Bold", "Operetta 52 Demi Bold", "Operetta 52 Extra Light", "Operetta 52 Light", "Operetta 52 Medium", "Operetta 52 Regular", "Operetta 52 Ultra Bold";
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+}
+h1 {
+font-family: "Opretta 32 Black", "serif";
+  font-size: 90px;
+	color: #1C5A55;
+}
+
+h2 {
+	font-family: "Operetta 32 Demi Bold", "serif";
+	font-size: 48px;
+	color: #A51511;
+
+}
+
+h3 {
+	font-family: "Coquette";
+	font-size: 48px;
+	color: #1C5A55;
+
+}
+
+p {
+	font-family: "Indivisible", "sans serif";
+	font-size: 24px;
+	margin-top: 0;
+	color:#223F4B;
+
+}
+
+li {
+	font-family: "Indivisible", "sans serif";
+	font-size: 24px;
+	color: #223F4B;
+}
