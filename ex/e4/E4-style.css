@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #FFFFFF;
+	font-size: 100%;
+	line-height: 1.4em;
+	font-family: "Space Mono", serif;
+}
+
+article {
+	width: 51%;
+	margin: 0 auto;	
+}
+	
+h1 {
+	font-family: "Tsukimi Rounded", serif;
+	font-weight: 700;
+	font-style: normal;
+	color: #ED4D1B;
+	font-size: 3.7em;
+	line-height: 1.2em;
+	padding-bottom: 0em;
+}
+
+h2 {
+	font-family: "Tsukimi Rounded", serif;
+	font-weight: 600;
+	color: #ED4D1B;
+	font-style: normal;
+	font-size: 2em;
+} 
+
+h3 {
+	font-family: "Tsukimi Rounded", serif;
+	font-weight: 600;
+	color: #ED4D1B;
+	font-style: normal;
+	font-size: 1.6em;
+}
+
+p {
+	font-size: 100%;
+	line-height: 1.6em;
+	font-family: "Space Mono", serif;
+}
+
+#toc {
+	background-color:black;
+	padding: 3% 5%;
+	margin-bottom: 40px;
+}
+
+li {
+	list-style: none;
+	color: #FFFFFF;
+	font-family: "Tsukimi Rounded", serif;
+	font-weight: 400;
+	line-height: 1.8em;
+ 	font-style: normal;
+	font-size: 1.2em;
+}
+
+dt {
+	font-family: "Tsukimi Rounded", serif;
+	font-weight: 700;
+	color: #ED4D1B;
+	line-height: 1.8em;
+ 	font-style: normal;
+	font-size: 1.6em;
+}
+
+dd{
+	margin-left: 0;
+	padding-bottom: 20px;
+}
+
+#note {
+	background-color:black;
+	padding: 3% 5%;
+	margin-bottom: 40px;
+}
+
+.author {
+	font-family: "Tsukimi Rounded", serif;
+	font-weight: 700;
+	color: #ED4D1B;
+	font-style: normal;
+	font-size: 1.2em;
+	line-height: 0em;
+	
+}
+
+.date {
+	font-size: 1em;
+	font-family: "Space Mono", serif;
+	color: #575757;
+	
+}
+
+.note {
+	color: #FFFFFF;
+}
+
+.summary {
+	font-family: "Space Mono", serif;
+	font-weight: 400;
+	font-style: italic;
+}
