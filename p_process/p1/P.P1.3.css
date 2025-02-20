@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+article {
+	width: 50%;
+	margin: 0 auto;	
+}
+
+
+body {
+	background-color: #F3F0B0;
+	font-size: 100%;
+	line-height: 1.8em;
+	font-family: "Onest", serif;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 3.6em;
+	color: #D51E16;
+	line-height: 1em;
+}
+
+dt {
+	color: #E1474D;
+	font-weight: 600; 
+	font-size: 1.8em;
+}
+
+dd {
+	margin-left: 0;
+	padding-bottom: 20px;
+}
+
+#scenario {
+	background-color: #8BB6AF;
+	padding: 1% 5%;
+	margin-bottom: 40px;	
+}
